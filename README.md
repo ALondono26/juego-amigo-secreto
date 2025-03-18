@@ -23,6 +23,9 @@ La página permite ingresar una lista de nombres y, al azar, asigna a cada parti
 - ¿Quién es tu Amigo Secreto?🤫
 ![Sorteo](https://github.com/user-attachments/assets/2625583b-3fb6-41d3-acf9-81c0f1f24d71)
 
+#Estado del Proyecto
+- Terminado.
+
 ## 📦 Instalación y uso  
 1. Clona el repositorio:  
    ```bash
