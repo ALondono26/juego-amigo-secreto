@@ -26,4 +26,4 @@ La página permite ingresar una lista de nombres y, al azar, asigna a cada parti
 ## 📦 Instalación y uso  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone [https://github.com/tu-usuario/amigo-secreto.git](https://github.com/ALondono26/juego-amigo-secreto.git)
